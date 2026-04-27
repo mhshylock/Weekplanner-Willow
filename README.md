@@ -1,2 +1,2 @@
-# Weekplanner-Willow
+# Weekplanner
 Weekplanner voor Autisme en ADHD met belastbaarheidsbalans
